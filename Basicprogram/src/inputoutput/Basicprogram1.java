@@ -1,4 +1,4 @@
-package Basicprogram;
+package inputoutput;
 import java.util.Scanner;
 public class Basicprogram1 {
 
